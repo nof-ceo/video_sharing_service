@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('fonts/SF-Pro-Display-Medium.otf') format('truetype');
+}
+
+@font-face {
+    font-family: "SF-Display";
+    src: url('fonts/SF-Pro-Display-Regular.otf') format('truetype');
+}
